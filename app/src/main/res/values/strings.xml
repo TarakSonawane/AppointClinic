@@ -1,0 +1,17 @@
+<resources>
+    <string name="app_name">ProjectCllinic</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="enter_the_message">enter_the_message</string>
+    <string name="sending_the_message">sending_the_message</string>
+    <string name="todo" />
+    <string name="open" />
+    <string name="closed" />
+
+
+
+    <string name="profile">Profile</string>
+    <string name="about">AppointClinic is an app which allows patients to quickly and simply keep track of their health by easily accessing the clinics.\nThe means of access could be chatting as well as calling.\nYou can also search  for reliable, research-backed answers to your questions about diseases, symptoms and health procedures. Plus, you can easily request an appointment with world-class experts in top-ranked specialties.\n\nMade By:- \nTarak Sonawane \nShreyash Chikte \nVishakha Gaurkar \n\nNote:- *Re-login if app crashes*
+    </string>
+    <string name="logout">LogOut</string>
+</resources>
